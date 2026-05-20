@@ -4,7 +4,7 @@
 
 I'm Simone
 
-I work as IT Manager at Adacta S.r.L. in Naples
+I work as IT Manager at [Adacta S.r.L.](https://adactainternational.com/) in Naples
 
 ---
 
