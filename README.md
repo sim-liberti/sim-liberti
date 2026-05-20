@@ -1,16 +1,40 @@
-## Hi there 👋
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient">
+</div>
 
-<!--
-**sim-liberti/sim-liberti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Simone
 
-Here are some ideas to get you started:
+I work as IT Manager at Adacta S.r.L. in Naples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Professional Overview
+
+- **Current Focus:** Developing web-based applications using .net10 and managing infrastructures and security concerns
+- **Currently Learning:** Rust, Pytorch and Machine Learning
+
+---
+
+### Technical Expertise
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=cs,py,java,rust)]()
+
+**Frameworks & Databases**
+
+[![Languages](https://skillicons.dev/icons?i=dotnet,fastapi,postgres)]()
+
+**Tools & Environment**
+
+[![Languages](https://skillicons.dev/icons?i=git,visualstudio,vscode,docker,cloudflare,arch,apple,windows&perline=4)]()
+
+---
+
+### Contact & Links
+
+- **Professional Network:** [LinkedIn](www.linkedin.com/in/simone-liberti)
+- **Email:** [simone.liberti01@gmail.com](mailto:simone.liberti01@gmail.com)
+
+<div>
+  <img style="width: 100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer">
+</div>
